@@ -1,12 +1,10 @@
 <div align="center">
 
-# QUICKAI ⚡
+# AI-SUVEDHA ⚡
 
 AI-Powered Content Generation at Your Fingertips
 
-![Last Commit](https://img.shields.io/github/last-commit/elyse502/QuickAI?style=flat-square) 
-![Languages](https://img.shields.io/github/languages/top/elyse502/QuickAI?style=flat-square&color=blue)
-![License](https://img.shields.io/badge/license-ISC-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-success?style=flat-square)
 
 *Powered by cutting-edge technologies:*
@@ -17,9 +15,6 @@ AI-Powered Content Generation at Your Fingertips
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-
-## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_](https://quick-ai-gray-eight.vercel.app/)
 
 </div>
 
@@ -47,7 +42,7 @@ Visit the 👉 [_LINK 🔗_](https://quick-ai-gray-eight.vercel.app/)
 
 ## Overview
 
-QUICKAI is a comprehensive AI SaaS platform that provides:
+AI-Suvedha is a comprehensive AI SaaS platform that provides:
 
 - 🎨 AI Image Generation and Editing
 - 📝 Intelligent Content Creation
@@ -119,7 +114,7 @@ Built with the PERN stack (PostgreSQL, Express, React, Node.js) and integrated w
 ## Architecture
 
 ```json
-QuickAI/
+AI-Suvedha/
 ├── client/                 # React Frontend
 │   ├── src/
 │   │   ├── assets/        # Static assets
@@ -178,8 +173,8 @@ QuickAI/
 
 1. Clone the repository:
 ```console
-git clone https://github.com/elyse502/QuickAI.git
-cd QuickAI
+git clone https://github.com/Aryan03112005/AI-Suvedha.git
+cd AI-Suvedha
 ```
 
 2. Install client dependencies:
@@ -272,7 +267,7 @@ cd client && npm run dev
 ## Deployment
 
 ### Frontend (Vercel)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2FQuickAI%2Ftree%2Fmain%2Fclient)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAryan03112005%2FAI-Suvedha%2Ftree%2Fmain%2Fclient)
 
 ### Backend (Render/Vercel)
 Deploy with environment variables configured for:
@@ -313,37 +308,33 @@ We welcome contributions! Please follow these steps:
 
 ## License
 
-Distributed under the ISC License. See [`LICENSE`](https://github.com/elyse502/QuickAI/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
 ## Support
 
-For support, email _elyseniyibizi502@gmail.com_ or create an issue in the GitHub repository.
+For support, create an issue in the GitHub repository or contact the project maintainer.
 
 ---
 
 ## 📞 Contact
 For any questions or support, please contact:
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_elysee)👨🏿‍💻 | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse).
-- **Email**: <elyseniyibizi502@gmail.com>
+- [**Aryan**](https://github.com/Aryan03112005) 👨‍💻 | [Github](https://github.com/Aryan03112005)
+- **Email**: <itzaryan2015@gmail.com>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryan03112005)
 
 ---
 
 <div align="center">
 
-**QUICKAI** - Supercharge your creativity with AI! 🚀
+**AI-SUVEDHA** - Supercharge your creativity with AI! 🚀
 
 *Built with ❤️ using the PERN stack and cutting-edge AI technologies.*
 
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
+**Made with ❤️ by <i>[Aryan](https://github.com/Aryan03112005)</i>**
 
 [⬆ Back to Top](#table-of-contents)
 
 </div>
-
-
-
-
